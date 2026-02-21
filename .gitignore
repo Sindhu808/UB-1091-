@@ -1,0 +1,10 @@
+node_modules/
+venv/
+__pycache__/
+.env
+.pytest_cache/
+*.pyc
+dist/
+build/
+.DS_Store
+HELIX_Clean_Code_For_GitHub.zip
